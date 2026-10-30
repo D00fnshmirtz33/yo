@@ -1,4 +1,4 @@
-# Penetration Tester
+# Penetration Tester - Hacker de Elite
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-_Penetration_Tester-blue?style=flat-square" />
@@ -9,7 +9,9 @@
 
 ## 👤 Perfil Profesional
 
-Soy Hugo Cesar Ramos, ethical hacker experto en operaciones cibernéticas medianamente complejas. Ayudo a asegurar y proteger activos digitales frente a amenazas cibernéticas. Me posiciono en el top 3 nacional en Hack The Box Venezuela.
+Profesional en Ciberseguridad Ofensiva y Pentesting con sólida experiencia en la identificación de vulnerabilidades, auditorías de seguridad en redes e infraestructura cloud, y simulación de amenazas avanzadas.
+
+Destacado competidor activo en CTFs (Capture The Flag), con una sólida capacidad analítica y pensamiento lateral para la resolución rápida de retos complejos de criptografía, ingeniería inversa y explotación de binarios o web. Apasionado por anticiparse a brechas de seguridad combinando rigor técnico, metodologías reconocidas (OWASP, PTES, NIST) y una mentalidad orientada al hacking ético.
 
 ---
 
